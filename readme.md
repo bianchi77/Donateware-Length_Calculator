@@ -1,5 +1,15 @@
 RixtronixLAB Donateware
+A note,
 
+Rixtronix LAB donates a software Tool,
+Support us by subscribing at
+Rixtronix LAB - Youtube
+https://www.youtube.com/channel/UC89se0BZ2oGeqN5jNbDAyQQ
+Rixtronix LAB Store
+https://www.ebay.com.au/str/rixtronix
+Contact us for becoming sponsor and partner in engineering and bussiness
+Thank you
+======================
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
