@@ -1,15 +1,15 @@
-RixtronixLAB Donateware
-A note,
+RixtronixLAB Donateware<br>
+A note,<br>
 
-Rixtronix LAB donates a software Tool,
-Support us by subscribing at
-Rixtronix LAB - Youtube
-https://www.youtube.com/channel/UC89se0BZ2oGeqN5jNbDAyQQ
-Rixtronix LAB Store
-https://www.ebay.com.au/str/rixtronix
-Contact us for becoming sponsor and partner in engineering and bussiness
-Thank you
-======================
+Rixtronix LAB donates a software Tool,<br>
+Support us by subscribing at<br>
+Rixtronix LAB - Youtube<br>
+https://www.youtube.com/channel/UC89se0BZ2oGeqN5jNbDAyQQ<br>
+Rixtronix LAB Store<br>
+https://www.ebay.com.au/str/rixtronix<br>
+Contact us for becoming sponsor and partner in engineering and bussiness<br>
+Thank you<br>
+======================<br>
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
