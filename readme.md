@@ -9,6 +9,17 @@ Rixtronix LAB Store<br>
 https://www.ebay.com.au/str/rixtronix<br>
 Contact us for becoming sponsor and partner in engineering and bussiness<br>
 Thank you<br>
+Software included :
+1.Easy Calculator
+2.Capacitance Reactance Calculator
+3.Inductance Calculator
+4.Differential Op-Amp Calculator
+5.Voltage Divider Calculator Visual Basic Based
+6.Voltage Divider Calculator Visual C#
+7.Length Calculator
+8.Analog clock
+9.Calculator V1.2.3
+
 ======================<br>
 This is free and unencumbered software released into the public domain.
 
