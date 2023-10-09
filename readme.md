@@ -8,7 +8,13 @@ https://www.youtube.com/channel/UC89se0BZ2oGeqN5jNbDAyQQ<br>
 Rixtronix LAB Store<br>
 https://www.ebay.com.au/str/rixtronix<br>
 Contact us for becoming sponsor and partner in engineering and bussiness<br>
-Thank you<br>
+Rixtronix LAB is looking for  a sponsor ,partner for cyclocomputer,power generator and GPS related project, <br>
+For a serious local people contact us, rixtronixlab at gmail dot com , <br>
+Thank you,kind regards.<br>
+Project highlight,<br>
+<a href="https://youtu.be/3H0K-5YrgBs">https://youtu.be/3H0K-5YrgBs</a><br />
+<a href="https://youtu.be/zbdKLOQFV7g">https://youtu.be/zbdKLOQFV7g</a><br />
+
 Software included :<br>
 1.Easy Calculator<br>
 2.Capacitance Reactance Calculator<br>
