@@ -12,8 +12,8 @@ Rixtronix LAB is looking for  a sponsor ,partner for cyclocomputer,power generat
 For a serious local people contact us, rixtronixlab at gmail dot com , <br>
 Thank you,kind regards.<br>
 Project highlight,<br>
-<a href="https://youtu.be/3H0K-5YrgBs">https://youtu.be/3H0K-5YrgBs</a><br />
-<a href="https://youtu.be/zbdKLOQFV7g">https://youtu.be/zbdKLOQFV7g</a><br />
+<a href="https://youtu.be/3H0K-5YrgBs" target="_blank">https://youtu.be/3H0K-5YrgBs</a><br />
+<a href="https://youtu.be/zbdKLOQFV7g" target="_blank">https://youtu.be/zbdKLOQFV7g</a><br />
 
 Software included :<br>
 1.Easy Calculator<br>
