@@ -4,7 +4,8 @@ A note,<br>
 Rixtronix LAB donates a software Tool,<br>
 Support us by subscribing at<br>
 Rixtronix LAB - Youtube<br>
-https://www.youtube.com/channel/UC89se0BZ2oGeqN5jNbDAyQQ<br>
+<a href="https://www.youtube.com/channel/UC89se0BZ2oGeqN5jNbDAyQQ" target="_blank">https://www.youtube.com/channel/UC89se0BZ2oGeqN5jNbDAyQQ</a><br />
+<br>
 Rixtronix LAB Store<br>
 https://www.ebay.com.au/str/rixtronix<br>
 Contact us for becoming sponsor and partner in engineering and bussiness<br>
