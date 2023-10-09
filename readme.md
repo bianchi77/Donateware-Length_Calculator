@@ -7,7 +7,8 @@ Rixtronix LAB - Youtube<br>
 <a href="https://www.youtube.com/channel/UC89se0BZ2oGeqN5jNbDAyQQ" target="_blank">https://www.youtube.com/channel/UC89se0BZ2oGeqN5jNbDAyQQ</a><br />
 <br>
 Rixtronix LAB Store<br>
-https://www.ebay.com.au/str/rixtronix<br>
+<a href="https://www.ebay.com.au/str/rixtronix" target="_blank">https://www.ebay.com.au/str/rixtronix</a><br />
+<br>
 Contact us for becoming sponsor and partner in engineering and bussiness<br>
 Rixtronix LAB is looking for  a sponsor ,partner for cyclocomputer,power generator and GPS related project, <br>
 For a serious local people contact us, rixtronixlab at gmail dot com , <br>
