@@ -27,6 +27,7 @@ Software included :<br>
 7.Length Calculator<br>
 8.Analog clock<br>
 9.Calculator V1.2.3<br>
+10.Non-inverting op-amp calculator Visual Basic Based<br>
 
 ======================<br>
 This is free and unencumbered software released into the public domain.
