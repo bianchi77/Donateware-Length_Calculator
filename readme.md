@@ -29,6 +29,7 @@ Software included :<br>
 9.Calculator V1.2.3<br>
 10.Non-inverting op-amp calculator Visual Basic Based<br>
 11.Capacitance Reactance calculator Visual Basic Based<br>
+12.Cassette chainring calculator-Cycling Training Software Visual Basic Based<br>
 ======================<br>
 This is free and unencumbered software released into the public domain.
 
