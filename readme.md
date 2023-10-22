@@ -11,7 +11,7 @@ Rixtronix LAB Store<br>
 <br>
 Contact us for becoming sponsor and partner in engineering and bussiness<br>
 Rixtronix LAB is looking for  a sponsor ,partner for cyclocomputer,power generator and GPS related project, <br>
-For a serious local people contact us, rixtronixlab at gmail dot com , <br>
+For a serious local people contact us, rixtronixlab a t gmail d o t  c o m , <br>
 Thank you,kind regards.<br>
 Project highlight,<br>
 <a href="https://youtu.be/3H0K-5YrgBs" target="_blank">https://youtu.be/3H0K-5YrgBs</a><br />
