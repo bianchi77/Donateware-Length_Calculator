@@ -11,7 +11,7 @@ Rixtronix LAB Store<br>
 <br>
 Contact us for becoming sponsor and partner in engineering and bussiness<br>
 Rixtronix LAB is looking for  a sponsor ,partner for cyclocomputer,power generator and GPS related project, <br>
-For a serious local people contact us, rixtronixlab at gmail dot com , <br>
+For a serious local people contact us, rixtronixlab a t gmail d o t  c o m , <br>
 Thank you,kind regards.<br>
 Project highlight,<br>
 <a href="https://youtu.be/3H0K-5YrgBs" target="_blank">https://youtu.be/3H0K-5YrgBs</a><br />
@@ -29,6 +29,7 @@ Software included :<br>
 9.Calculator V1.2.3<br>
 10.Non-inverting op-amp calculator Visual Basic Based<br>
 11.Capacitance Reactance calculator Visual Basic Based<br>
+12.Cassette chainring calculator-Cycling Training Software Visual Basic Based<br>
 ======================<br>
 This is free and unencumbered software released into the public domain.
 
