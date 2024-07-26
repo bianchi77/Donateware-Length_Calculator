@@ -29,9 +29,9 @@ Software included :<br>
 9.Calculator V1.2.3<br>
 10.Non-inverting op-amp calculator Visual Basic Based<br>
 11.Capacitance Reactance calculator Visual Basic Based<br>
-12.Cassette chainring calculator-Cycling Training Software Visual Basic Based
-13.RixtronixLAB Currency Calculator
-14.RixtronixLAB Inverting OpAmp with Language VC++
+12.Cassette chainring calculator-Cycling Training Software Visual Basic Based<br>
+13.RixtronixLAB Currency Calculator<br>
+14.RixtronixLAB Inverting OpAmp with Language VC++<br>
 15.Reactance Calculator with language<br>
 ======================<br>
 This is free and unencumbered software released into the public domain.
