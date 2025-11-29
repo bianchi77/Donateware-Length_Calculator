@@ -1,0 +1,4 @@
+Windows 11 activating
+https://www.youtube.com/watch?v=Um_cS1hzRB8
+PS C:\Users\rixtronixlab> irm https://get.activated.win | iex 
+choose 1
